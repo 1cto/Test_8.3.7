@@ -10,11 +10,11 @@ vanessa.bat
 ```
 
 Если нет oscript тогда можно вручную выполнить такие действия: 
-1. создать каталоги build\ib b Features\step_definitions 
-2. создать пустую базу в каталоге build\ib и загрузить в нее конфигурацию из файлов с каталога cf 
-3. собрать из исходников внешнюю обработку и сохранить ее в по пути \Features\step_definitions\TestFeature.epf
-4. Открыть предприятие с указанием TESTMANAGER и открыть внешнюю обработку \tools\vanessa-behavior\vanessa-behavior.epf
-5. Нажать в обработке загрузить фичи из каталога и выбрать каталог \Features и после загрузки нажать Выполнить. 
+* создать каталоги build\ib b Features\step_definitions 
+* создать пустую базу в каталоге build\ib и загрузить в нее конфигурацию из файлов с каталога cf 
+* собрать из исходников внешнюю обработку и сохранить ее в по пути \Features\step_definitions\TestFeature.epf
+* Открыть предприятие с указанием TESTMANAGER и открыть внешнюю обработку \tools\vanessa-behavior\vanessa-behavior.epf
+* Нажать в обработке загрузить фичи из каталога и выбрать каталог \Features и после загрузки нажать Выполнить. 
 
 Пример видео как выполнить шаги выше http://screencast.com/t/kw5Zqvjl 
 
