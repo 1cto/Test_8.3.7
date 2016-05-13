@@ -1,0 +1,4 @@
+[submodule "tools/vanessa-behavior"]
+	path = tools/vanessa-behavior
+	url = https://github.com/silverbulleters/vanessa-behavior.git
+	branch = develop
